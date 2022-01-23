@@ -14,7 +14,7 @@ Also I made the same project with [React](https://github.com/allexz10/product-li
 
 ## About
 
-This project was created with Create React App
+This project was created with Create Vue App
 
 Instal the project - `npm install`
 
