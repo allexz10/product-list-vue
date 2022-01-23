@@ -4,7 +4,7 @@
 
 This is a project I undertook to advance my skills using [Vue](https://reactjs.org/) and other parts of its ecosystem. 
 Page  contains a list of products. You can filter products using categories, as well as in the search bar to find specific products. Data fetched from [Fake Store API](https://fakestoreapi.com/). The page has an adaptive layout that looks great both on the desktop and in the mobile version.
-Also I made the same project with [React](link)
+Also I made the same project with [React](https://github.com/allexz10/product-list)
 
 ![Header](https://github.com/allexz10/allexz10/blob/main/assets/product-list.gif)
 
