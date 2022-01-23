@@ -10,7 +10,7 @@ Also I made the same project with [React](https://github.com/allexz10/product-li
 
 ## Visit
 
-`link` -  https://allexz10.github.io/product-list/
+`link` -  https://allexz10.github.io/product-list-vue/
 
 ## About
 
