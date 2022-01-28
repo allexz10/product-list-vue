@@ -23,7 +23,7 @@
         type="text"
         v-model="search"
         placeholder="Search.."
-        @keyup="filteredList"
+        @input="filteredList"
       />
     </div>
 
