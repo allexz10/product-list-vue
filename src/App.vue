@@ -200,6 +200,7 @@ export default defineComponent({
     margin: 0 auto;
     border: 2px solid transparent;
   }
+  
   &:hover,
   &:focus {
     background-color: #2e2c2c;
@@ -234,6 +235,7 @@ export default defineComponent({
   box-shadow: 0 1px 10px #363635;
   border: 2px solid transparent;
 }
+
 .item__title {
   font-weight: 700;
   max-height: 250px;
